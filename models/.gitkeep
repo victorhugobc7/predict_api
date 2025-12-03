@@ -1,0 +1,7 @@
+# Place your trained models here:
+# - voting_regressor.joblib (recommended)
+# - random_forest.joblib
+# - linear_regression.joblib
+# - model.keras or model.h5
+# - scaler.joblib (optional, for feature scaling)
+# - feature_columns.joblib (optional, for feature alignment)
